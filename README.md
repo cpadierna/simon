@@ -2,7 +2,7 @@
 
 Based on the classic toy that's been around since the 70s... 
 
-![alt text](https://github.com/cpadierna/simon/blob/main/simon_original.jpg)
+![alt text](https://github.com/cpadierna/simon/blob/main/simon_original.jpg | width=100)
 
 This in-browser app uses **HTML**, **CSS**, and **JavaScript** to bring the same toy-like experience to your screen. 
 
